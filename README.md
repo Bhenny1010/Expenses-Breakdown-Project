@@ -71,6 +71,15 @@ In this project, I perform a detailed analysis of personal expenses to identify 
    - Expense Distribution: Bar graphs display the proportion of spending in each category, giving a quick snapshot of financial priorities.
    - Insights & Recommendations: Based on patterns observed in the data, actionable insights are suggested to optimize budgeting and reduce unnecessary expenses.
 
+
+
+
+![Expenses dashboard](https://github.com/user-attachments/assets/8897afde-f7a8-4061-ac93-a19569da1a36)
+
+
+![expenses dashboard 2](https://github.com/user-attachments/assets/6cdb87ae-fbd2-4963-89a5-752914429099)
+
+
 ### Insight 
 
 The data highlights two main financial control issues:
