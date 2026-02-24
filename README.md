@@ -29,6 +29,8 @@
 
 A simple tool to track, categorize and visualize organization expenses, helping to manage their budget effectively. Features include adding and editing transactions, generating summaries, and providing insights into spending patterns for smarter financial decisions.
 
+
+
 ### Data Source
 
 The sample dataset (`expenses.csv`) is adapted from publicly available data on [Kaggle – Personal Expense Dataset](https://www.kaggle.com/datasets/teertha/personal-expense-data) for demonstration purposes.
