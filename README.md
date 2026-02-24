@@ -74,10 +74,6 @@ In this project, I perform a detailed analysis of personal expenses to identify 
 
 
 
-![Expenses dashboard](https://github.com/user-attachments/assets/8897afde-f7a8-4061-ac93-a19569da1a36)
-
-
-![expenses dashboard 2](https://github.com/user-attachments/assets/6cdb87ae-fbd2-4963-89a5-752914429099)
 
 
 ### Insight 
